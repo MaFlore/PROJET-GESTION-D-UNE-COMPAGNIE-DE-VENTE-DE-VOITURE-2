@@ -18,3 +18,6 @@ TRAVAIL A FAIRE :
       • Recherche d'un client à partir de son nom, 
       • Recherche des clients ayant leurs dates de naissance comprise entre deux dates 
       choisies par l’utilisateur.
+      
+Version PHP : 8 
+Version SYMFONY : 6
